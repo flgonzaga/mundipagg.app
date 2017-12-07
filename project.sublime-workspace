@@ -1,0 +1,1117 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getCreditCards〔function〕"
+			],
+			[
+				"jso",
+				"json_encode〔function〕"
+			],
+			[
+				"crea",
+				"createCustomer〔function〕"
+			],
+			[
+				"credit",
+				"credit_card"
+			],
+			[
+				"paymen",
+				"$payment〔variable〕"
+			],
+			[
+				"set",
+				"setPayments〔function〕"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"am",
+				"$amount〔variable〕"
+			],
+			[
+				"prin",
+				"print〔keyword〕"
+			],
+			[
+				"CreateCard",
+				"CreateCardTokenRequest〔class〕"
+			],
+			[
+				"reque",
+				"$request〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"Mun",
+				"MundiAPIClient"
+			],
+			[
+				"function",
+				"function_exists〔function〕"
+			],
+			[
+				"tota",
+				"total_itens_cart"
+			],
+			[
+				"categ",
+				"category_to_verify"
+			],
+			[
+				"cate",
+				"category_to_verify"
+			],
+			[
+				"ceh",
+				"check_product_in_cart"
+			],
+			[
+				"only",
+				"only_this_category"
+			],
+			[
+				"total",
+				"total_itens_cart"
+			],
+			[
+				"set_time",
+				"set_time_to_sale"
+			],
+			[
+				"font-",
+				"font-05"
+			],
+			[
+				"font",
+				"font-06"
+			],
+			[
+				"lay-color-",
+				"lay-color-blue"
+			],
+			[
+				"lay-",
+				"lay-color-blue"
+			],
+			[
+				"fontsi",
+				"font-size"
+			],
+			[
+				"lay-color",
+				"lay-color-gray-l"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fonst",
+				"font-size"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"icon-",
+				"icon-containers-aereos-01"
+			],
+			[
+				"lay",
+				"lay-color-blue"
+			],
+			[
+				"bg",
+				"bg-image-02"
+			],
+			[
+				"col",
+				"col-lg-offset-5"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"box-",
+				"box-content-01"
+			],
+			[
+				"goth",
+				"goth-b"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"la",
+				"lay-color-orange"
+			],
+			[
+				"lay-bg-",
+				"lay-bg-blue"
+			],
+			[
+				"lay-coo",
+				"lay-color-gray"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"toque",
+				"toque-de-mae"
+			],
+			[
+				"max",
+				"maxw100"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"lay-color-brown",
+				"lay-color-brown-l"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"title",
+				"title-page-01"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"lay-colo",
+				"lay-color-gray-d"
+			],
+			[
+				"lay-coo-",
+				"lay-color-gray-d"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"ea",
+				"each"
+			],
+			[
+				"filter_i",
+				"filter_input"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"lay-color-blue",
+				"lay-color-blue-l"
+			],
+			[
+				"textr",
+				"text-transform"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fl",
+				"fluxo"
+			],
+			[
+				"title-",
+				"title-page-04"
+			],
+			[
+				"arrow",
+				"arrow-07-top"
+			],
+			[
+				"lay-bg",
+				"lay-bg-green-2"
+			],
+			[
+				"lay-bg-g",
+				"lay-bg-gray-l"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"col-md-",
+				"col-md-offset-2"
+			],
+			[
+				"item",
+				"item-matchheight"
+			],
+			[
+				"borde",
+				"border-04"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"lissty",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"title-page",
+				"title-page-05"
+			],
+			[
+				"fonts-",
+				"font-size"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tex",
+				"texture-01-settings"
+			],
+			[
+				"hidden-",
+				"hidden-xs"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"sele",
+				"select2"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"f",
+				"font700"
+			],
+			[
+				"lay-color-gr",
+				"lay-color-gray"
+			],
+			[
+				"pd",
+				"pd-03"
+			],
+			[
+				"page",
+				"page-home"
+			],
+			[
+				"pag",
+				"page-fale-conosco"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"layco",
+				"lay-color-red"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"dash",
+				"Dashboard"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"bck",
+				"background-attachment"
+			],
+			[
+				"produtos",
+				"produtosorganicos"
+			],
+			[
+				"lay-co",
+				"lay-color-green"
+			],
+			[
+				"swi",
+				"swis"
+			],
+			[
+				"ba",
+				"Bambu"
+			],
+			[
+				"filter_",
+				"filter_input"
+			],
+			[
+				"li",
+				"d-li\tdisplay: list-item;"
+			],
+			[
+				"ly",
+				"lay-color-blue"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"bgpo",
+				"background-position"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"tx",
+				"text-transform"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"des",
+				"descricao"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"bg-cinza",
+				"bg-cinza-02"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"ima",
+				"images"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/checkout-redirect.php",
+			"settings":
+			{
+				"buffer_size": 1832,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "public/debug.php",
+			"settings":
+			{
+				"buffer_size": 645,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/checkout-lightbox.php",
+			"settings":
+			{
+				"buffer_size": 2717,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Controllers/TokensController.php",
+			"settings":
+			{
+				"buffer_size": 5433,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/log/nginx/mundipagg.app-error.log",
+			"settings":
+			{
+				"buffer_size": 13872,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 128.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"ina",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 189.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/web01/vhosts/mundipagg.app",
+		"/home/web01/vhosts/mundipagg.app/public",
+		"/home/web01/vhosts/mundipagg.app/src",
+		"/home/web01/vhosts/mundipagg.app/src/Controllers",
+		"/home/web01/vhosts/mundipagg.app/src/Http"
+	],
+	"file_history":
+	[
+		"/home/web01/vhosts/mundipagg.app/src/Controllers/TokensController.php",
+		"/home/web01/vhosts/mundipagg.app/public/checkout-multimeios.php",
+		"/home/web01/vhosts/mundipagg.app/public/checkout-lightbox.php",
+		"/home/web01/vhosts/mundipagg.app/public/CheckoutMultiMeios.php",
+		"/home/web01/vhosts/mundipagg.app/public/index.php",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/E/ecosus/portal/Classes/Secao.php",
+		"/var/log/nginx/mundipagg.app-error.log",
+		"/home/web01/vhosts/mundipagg.app/src/Controllers/OrdersController.php",
+		"/home/web01/vhosts/mundipagg.app/vendor/mashape/unirest-php/src/Unirest/Request.php",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[assinaturas de e-mail]/2017/B/Bramak/Felicio Granato 3/felicio-granato.htm",
+		"/home/web01/vhosts/mundipagg.app/src/Controllers/CustomersController.php",
+		"/home/web01/vhosts/mundipagg.app/src/APIHelper.php",
+		"/home/web01/vhosts/mundipagg.app/src/Models/CreateCardTokenRequest.php",
+		"/home/web01/vhosts/mundipagg.app/src/Models/CreateTokenRequest.php",
+		"/home/web01/vhosts/mundipagg.app/public/debug.php",
+		"/home/web01/vhosts/woocommerce-mundipagg.app/src/Resource/Tokens.php",
+		"/home/web01/vhosts/woocommerce-mundipagg.app/src/Model/Checkout.php",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mundipagg-checkout/templates/checkout-lightbox.php",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mundipagg-checkout/woocommerce-mundipagg-checkout.php",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mundipagg-checkout/src/Controllers/TokensController.php",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mundipagg-checkout/templates/checkout.php",
+		"/home/web01/vhosts/mundipagg.app/public/credit-card.php",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mundipagg-checkout/includes/authentication.php",
+		"/home/web01/vhosts/mundipagg.app/public/auth.php",
+		"/home/web01/Documentos/annotations.txt",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/C/crazybeer/sftp-config.json",
+		"/etc/hosts",
+		"/etc/nginx/sites-available/mundipagg.app.conf",
+		"/run/user/1000/gvfs/smb-share:server=srvisualy,share=departamentos/WEB/[sites]/C/crazybeer/wp-config.php",
+		"/home/web01/www/vhosts/mundipagg.app/index.php",
+		"/home/web01/Downloads/MundiAPI-PHP-master/composer.json",
+		"/C/Users/Fabinho/Downloads/mundipagg-checkout-php-transparent-sample-master/mundipagg-checkout-php-transparent-sample-master/form.php",
+		"/C/Users/Fabinho/Downloads/mundipagg-checkout-php-transparent-sample-master/mundipagg-checkout-php-transparent-sample-master/index.php",
+		"/C/Users/Fabinho/Downloads/MundiAPI-PHP-master/MundiAPI-PHP-master/src/Configuration.php",
+		"/Z/WEB/[sites]/G/gmg/sftp-config.json",
+		"/Z/WEB/[sites]/G/guto_ferreira/sftp-config.json",
+		"/Z/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mercadopago/includes/sdk/lib/mercadopago.php",
+		"/Z/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mercadopago/includes/WC_WooMercadoPago_BasicGateway.php",
+		"/Z/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mercadopago/woocommerce-mercadopago.php",
+		"/Z/WEB/[sites]/C/crazybeer/wp-content/plugins/woocommerce-mercadopago/templates/mp_main_settings.php",
+		"/Z/WEB/[sites]/C/crazybeer/wp-content/themes/emallshop-child/functions.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/functions.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/assets/css/style.css",
+		"/C/Users/Visualy Web/Desktop/.htaccess",
+		"/C/Users/Visualy Web/Desktop/php.ini",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/page-home.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/header.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/woocommerce/content-single-product.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/woocommerce/content-product.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/woocommerce/cart/cart-totals.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/searchform.php",
+		"/Z/WEB/[sites]/W/wmg/site/wp-content/themes/wpbrasil-odin-3fa0943/footer.php",
+		"/Z/WEB/[sites]/A/agencia1web/site/wp-content/themes/wpbrasil-odin-3fa0943/single.php",
+		"/C/Users/Visualy Web/AppData/Local/Temp/Rar$DIa0.438/myriadproboldcondensed.css",
+		"/Z/WEB/[e-mails marketing]/A/Agencia1/01/01.htm",
+		"/Z/WEB/[e-mails marketing]/B/Bramak/2017/38/011.htm",
+		"/C/Users/Visualy Web/AppData/Local/Temp/Rar$DIa0.932/myriadprobold.css",
+		"/Z/WEB/[sites]/S/solutions_equipamentos/wp-content/themes/wpbrasil-odin-3fa0943/footer.php",
+		"/Z/WEB/[sites]/P/plastkaza/2017/site/wp-content/themes/wpbrasil-odin-3fa0943/header.php",
+		"/Z/WEB/[sites]/P/plastkaza/2017/site/sftp-config.json",
+		"/Z/WEB/[sites]/W/west/site/wp-content/themes/wpbrasil-odin-3fa0943/audio.php",
+		"/Z/WEB/[sites]/W/west/site/wp-content/themes/wpbrasil-odin-3fa0943/page-home.php",
+		"/Z/WEB/[sites]/W/west/site/wp-content/themes/wpbrasil-odin-3fa0943/assets/css/style.css",
+		"/Z/WEB/[sites]/W/west/site/sftp-config.json",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/page-asteroids-2.php",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/asteroids-2/header.php",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/asteroids-2/assets/css/style-asteroids-2.css",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/asteroids/assets/css/style-asteroids.css",
+		"/C/Users/Visualy Web/Desktop/rstoldos/06vn484d.php",
+		"/C/Users/Visualy Web/Desktop/Nova pasta/wp-config.php",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/page-asteroids.php",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/asteroids-2/footer.php",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/asteroids/header.php",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/asteroids-2/assets/css/style.css",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/assets/css/editor-style.css",
+		"/Z/WEB/[sites]/L/Landing Page - Base/landingpage/wp-content/themes/wpbrasil-odin-3fa0943/assets/css/style.css",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/page-home.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/content.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/content-none.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/category.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/header.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-comments-post.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-cron.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-config.php",
+		"/Z/WEB/[sites]/A/agencia1web/site/wp-content/themes/wpbrasil-odin-3fa0943/footer.php",
+		"/Z/WEB/[sites]/A/agencia1web/site/wp-content/themes/wpbrasil-odin-3fa0943/header.php",
+		"/Z/WEB/[sites]/A/agencia1web/site/wp-content/themes/wpbrasil-odin-3fa0943/assets/prepros-6.config",
+		"/Z/WEB/[sites]/A/agencia1web/site/sftp-config.json",
+		"/Z/WEB/[sites]/A/agencia1web/site/wp-content/themes/wpbrasil-odin-3fa0943/page-sidebar.php",
+		"/Z/WEB/[sites]/S/solutions_equipamentos/sftp-config.json",
+		"/Z/WEB/[sites]/H/haidar/2017/Extranet/boletins-interna.html",
+		"/Z/WEB/[sites]/H/haidar/2017/Extranet/stylesheets/style.css",
+		"/Z/WEB/[sites]/H/haidar/2017/Extranet/index.html",
+		"/Z/WEB/[sites]/H/haidar/2017/Extranet/boletins.html",
+		"/C/Users/Visualy Web/AppData/Local/Temp/Rar$DIa0.501/helveticaboldoblique.css",
+		"/Z/WEB/[sites]/H/haidar/site/stylesheets/style.css",
+		"/Z/WEB/[sites]/H/haidar/site/index.html",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/footer.php",
+		"/Z/WEB/[sites]/G/gmg/wp-content/themes/wpbrasil-odin-3fa0943/page-products.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/page-utilitarios.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/page-news-interna.php",
+		"/Z/WEB/[sites]/G/gmg/wp-content/themes/wpbrasil-odin-3fa0943/footer.php",
+		"/Z/WEB/[sites]/G/gmg/wp-content/themes/wpbrasil-odin-3fa0943/header.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/assets/css/style.css",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/page-news.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/functions.php",
+		"/Z/WEB/[sites]/W/wmg/wp-content/themes/wpbrasil-odin-3fa0943/page-my-account.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-includes/class-wp-theme.php",
+		"/Z/WEB/[sites]/J/jandira/wp-content/themes/wpbrasil-odin-3fa0943/404.php",
+		"/Z/WEB/[sites]/J/jandira/wp-content/themes/wpbrasil-odin-3fa0943/footer.php",
+		"/Z/WEB/[sites]/J/jandira/wp-content/themes/wpbrasil-odin-3fa0943/page-edital.php",
+		"/Z/WEB/[sites]/J/jandira/wp-content/themes/wpbrasil-odin-3fa0943/header.php",
+		"/Z/WEB/[e-mails marketing]/B/Bramak/2017/34/01.htm",
+		"/Z/WEB/[sites]/M/marangoni/sftp-config.json",
+		"/Z/WEB/[sites]/M/marangoni/wp-content/themes/wpbrasil-odin-4b791e0/footer.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/assets/images/bg-header.jpg",
+		"/Z/WEB/[sites]/M/marangoni/wp-config.php",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/assets/css/classes.css",
+		"/Z/WEB/[sites]/A/alifecomex/site/wp-content/themes/wpbrasil-odin-3fa0943/index.php",
+		"/C/Users/Visualy Web/Desktop/2132132132132/.htaccess",
+		"/C/Users/Visualy Web/Desktop/2132132132132/wp-config.php",
+		"/C/Users/Visualy Web/Desktop/wordpress-4.8-pt_BR (1)/wordpress/23123132/wp-config.php",
+		"/C/Users/Visualy Web/Desktop/atom/php.ini",
+		"/Z/WEB/[e-mails marketing]/B/Bramak/2017/33/01.htm",
+		"/C/Users/Visualy Web/AppData/Local/Temp/Rar$DIa0.153/futuraltbold.css",
+		"/C/Users/Visualy Web/AppData/Local/Temp/Rar$DIa0.147/myriadproregular.css",
+		"/C/Users/Visualy Web/Desktop/atom/wp-config.php",
+		"/Z/WEB/[sites]/J/je-fiber/contato.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request",
+			"publicKey",
+			"return",
+			"sandbox",
+			"init_point",
+			"sandbox_init_point"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/checkout-redirect.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1705,
+								1705
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "<?php",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/debug.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/checkout-lightbox.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Controllers/TokensController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1934,
+								2014
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 816.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/var/log/nginx/mundipagg.app-error.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11774,
+								11774
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1428.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 153.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"empty.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
